@@ -17,7 +17,7 @@ module Point
   # bidimensional.
   # Se han incluido los mixin Comparable y Enumerable.
   class Point
-    include Comparable
+    include Compara
     include Enumerable
     attr_reader :x, :y
     
