@@ -1,4 +1,4 @@
-# encoding: utf-8
+
 # Este módulo se ha creado para describir
 # distintas metodologías de programación
 # haciendo uso del Lenguaje de Programación
